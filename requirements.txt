@@ -1,0 +1,4 @@
+requests==2.32.3
+Faker==30.8.2
+ipdb==0.13.13
+coverage==7.6.4

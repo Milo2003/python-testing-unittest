@@ -1,0 +1,5 @@
+[report]
+
+# Umbral minimo de cobertura
+
+fail_under = 100
