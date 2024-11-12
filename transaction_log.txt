@@ -1,0 +1,263 @@
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Deposited 1500. New balance: 3500
+Account created
+Deposited 100. New balance: 2100
+Account created
+Deposited 4000. New balance: 6000
+Account created
+Deposited 500. New balance: 2500
+Account created
+Account created
+Deposited 100. New balance: 2100
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
+Account created
+Withdrew 100. New balance: 1900
+Balance checked: 1900
+Account created
+Balance checked: 2000
