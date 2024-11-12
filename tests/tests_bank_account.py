@@ -26,7 +26,9 @@ class BankAccountTests(unittest.TestCase):
         # assert new_balance == 2100
         self.assertEqual(new_balance, 2100)
 
-    def test_deposit_decreases_balance_by_withdraw_amount(self):
+    @patch("src.bank_account.datetime")
+    def test_deposit_decreases_balance_by_withdraw_amount(self, mock_datetime):
+        mock_datetime.now.return_value = datetime(2024, 11, 11, 10)
         new_balance = self.account.withdraw(500)
         # assert new_balance == 1500
         # self.assertEqual(new_balance, 1501, "Balance is not equal")
