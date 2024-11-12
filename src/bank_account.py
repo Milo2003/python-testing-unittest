@@ -23,9 +23,10 @@ class BankAccount:
         >>> account.deposit(100)
         2100
         """
-        if amount > 0:
-            self.balance += amount
-            self._log_transaction(f"Deposited {amount}. New balance: {self.balance}")
+        if amount <= 0:
+            raise ValueError("Amount must be greater than zero")
+        self.balance += amount
+        self._log_transaction(f"Deposited {amount}. New balance: {self.balance}")
         return self.balance
 
     def withdraw(self, amount):
