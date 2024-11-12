@@ -38,7 +38,9 @@ class BankAccountTests(unittest.TestCase):
         # assert self.account.get_balance() == 2000
         self.assertEqual(self.account.get_balance(), 2000)
 
-    def test_transfer_with_sufficient_funds(self):
+    @patch("src.bank_account.datetime")
+    def test_transfer_with_sufficient_funds(self, mock_datetime):
+        mock_datetime.now.return_value = datetime(2024, 11, 11, 10)
         new_balance = self.account.transfer(200, self.account2)
         self.assertEqual(new_balance, 1800)
         assert self.account2.get_balance() == 700
